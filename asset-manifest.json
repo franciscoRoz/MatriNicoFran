@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MatriNicoFran/static/css/main.0c51ade5.css",
-    "main.js": "/MatriNicoFran/static/js/main.040b217a.js",
+    "main.js": "/MatriNicoFran/static/js/main.21d5dd67.js",
     "static/js/787.87934e8d.chunk.js": "/MatriNicoFran/static/js/787.87934e8d.chunk.js",
     "index.html": "/MatriNicoFran/index.html",
     "main.0c51ade5.css.map": "/MatriNicoFran/static/css/main.0c51ade5.css.map",
-    "main.040b217a.js.map": "/MatriNicoFran/static/js/main.040b217a.js.map",
+    "main.21d5dd67.js.map": "/MatriNicoFran/static/js/main.21d5dd67.js.map",
     "787.87934e8d.chunk.js.map": "/MatriNicoFran/static/js/787.87934e8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0c51ade5.css",
-    "static/js/main.040b217a.js"
+    "static/js/main.21d5dd67.js"
   ]
 }
